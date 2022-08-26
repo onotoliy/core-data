@@ -4,7 +4,7 @@ plugins {
     id 'io.gitlab.arturbosch.detekt' version '1.21.0'
 }
 
-group 'com.github.onotoliy'
+group 'io.github.onotoliy.core-data'
 version "1.0.0-SNAPSHOT"
 
 repositories {
