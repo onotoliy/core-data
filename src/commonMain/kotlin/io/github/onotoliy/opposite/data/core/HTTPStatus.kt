@@ -1,4 +1,4 @@
-package com.github.onotoliy.opposite.data.core
+package io.github.onotoliy.opposite.data.core
 
 /**
  * Статус ответа.

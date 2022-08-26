@@ -1,7 +1,7 @@
-package com.github.onotoliy.opposite.data
+package io.github.onotoliy.opposite.data
 
-import com.github.onotoliy.opposite.data.core.HasUID
-import com.github.onotoliy.opposite.data.core.HasName
+import io.github.onotoliy.opposite.data.core.HasUID
+import io.github.onotoliy.opposite.data.core.HasName
 import kotlinx.serialization.Serializable
 
 /**
