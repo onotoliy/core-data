@@ -1,4 +1,4 @@
-package io.github.onotoliy.opposite.data.page
+package io.github.onotoliy.core.data.page
 
 import kotlinx.serialization.Serializable
 

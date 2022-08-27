@@ -1,4 +1,4 @@
-package io.github.onotoliy.opposite.data.core
+package io.github.onotoliy.core.data
 
 /**
  * Объект содержит название.

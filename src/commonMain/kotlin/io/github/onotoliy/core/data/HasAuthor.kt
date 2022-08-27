@@ -1,6 +1,4 @@
-package io.github.onotoliy.opposite.data.core
-
-import io.github.onotoliy.opposite.data.Option
+package io.github.onotoliy.core.data
 
 /**
  * Объект содержит автора.
