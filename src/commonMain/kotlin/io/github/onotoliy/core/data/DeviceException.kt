@@ -24,5 +24,7 @@ data class DeviceException(
     val message: String = "",
     val localizedMessage: String = "",
     val stackTrace: String = "",
-    override val creationDate: Instant = Clock.System.now()
-): HasUID, HasCreationDate
+    override val creationDate: Instant = Clock.System.now(),
+    override val name: String = "",
+    override val author: Option = Option("", "")
+): HasUID, HasName, HasAuthor, HasCreationDate
